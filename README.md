@@ -33,7 +33,7 @@ Both domains allow access to standard Engine and Project content but explicitly 
 
 ---
 
-## 📊 Summary Matrix
+## 📊 Summary
 
 | Scenario | Action | Result in Editor |
 | :--- | :--- | :--- |
